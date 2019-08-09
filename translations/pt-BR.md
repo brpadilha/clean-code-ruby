@@ -73,7 +73,7 @@ código que escrevemos seja legível e pesquisável. Ao **não** nomear variáve
 com um significado que ajude a compreender nosso programa, nós prejudicamos
 nossos leitores. Faça seus nomes serem pesquisáveis.
 
-Alem disso, ao invés de escrever valores em código e usar "números mágicos",
+Além disso, ao invés de escrever valores em código e usar "números mágicos",
 crie constantes.
 
 **Ruim:**
